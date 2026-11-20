@@ -3,3 +3,10 @@
     padding: 10px;
     margin: 20px;
 }
+
+.pretty {
+    background-color: aqua;
+    border: solid 2px palevioletred;
+    margin: 10px;
+    padding: 10px;
+}
